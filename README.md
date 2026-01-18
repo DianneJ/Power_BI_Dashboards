@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power Bi
 
-![Dashboard Page 1](/Project%201%20Page%201.JPG)
+![Dashboard Page 1](https://github.com/DianneJ/Power_BI_Dashboards/blob/main/Images/Project%201%20Page%201.JPG)
 
 ## Introduction
 
